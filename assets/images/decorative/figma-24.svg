@@ -1,0 +1,18 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Avatar">
+<g clip-path="url(#clip0_0_46)">
+<rect width="64" height="64" rx="32" fill="url(#paint0_linear_0_46)"/>
+<circle id="Ellipse" cx="32" cy="21" r="11" fill="#B87A61"/>
+<rect id="Rectangle" x="16" y="34" width="32" height="32" rx="16" fill="#3D1220"/>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_0_46" x1="-7.73804" y1="24.5038" x2="68.8363" y2="48.6851" gradientUnits="userSpaceOnUse">
+<stop stop-color="#F2D1C7"/>
+<stop offset="1" stop-color="#7A2E3D"/>
+</linearGradient>
+<clipPath id="clip0_0_46">
+<rect width="64" height="64" rx="32" fill="white"/>
+</clipPath>
+</defs>
+</svg>

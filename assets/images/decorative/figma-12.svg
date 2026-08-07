@@ -1,0 +1,13 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="72" height="72" viewBox="0 0 72 72" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Avatar">
+<rect width="72" height="72" rx="36" fill="url(#paint0_linear_0_82)"/>
+<circle id="Ellipse" cx="36" cy="24" r="12" fill="#B87A61"/>
+<rect id="Rectangle" x="19" y="38" width="34" height="34" rx="17" fill="#3D1220"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_0_82" x1="-8.64" y1="25.92" x2="77.76" y2="54.72" gradientUnits="userSpaceOnUse">
+<stop stop-color="#F0D1C7"/>
+<stop offset="1" stop-color="#7A2E3D"/>
+</linearGradient>
+</defs>
+</svg>

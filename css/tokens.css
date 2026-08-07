@@ -1,0 +1,16 @@
+@font-face{font-family:"DM Sans";src:url("../assets/fonts/dm-sans-400.woff2") format("woff2");font-weight:400;font-display:swap}
+@font-face{font-family:"DM Sans";src:url("../assets/fonts/dm-sans-500.woff2") format("woff2");font-weight:500;font-display:swap}
+@font-face{font-family:"DM Sans";src:url("../assets/fonts/dm-sans-700.woff2") format("woff2");font-weight:700;font-display:swap}
+@font-face{font-family:"Playfair Display";src:url("../assets/fonts/playfair-display-600.woff2") format("woff2");font-weight:600;font-display:swap}
+@font-face{font-family:"Noto Sans Arabic";src:url("../assets/fonts/noto-sans-arabic-400.woff2") format("woff2");font-weight:400;font-display:swap}
+@font-face{font-family:"Noto Sans Arabic";src:url("../assets/fonts/noto-sans-arabic-500.woff2") format("woff2");font-weight:500;font-display:swap}
+@font-face{font-family:"Noto Sans Arabic";src:url("../assets/fonts/noto-sans-arabic-700.woff2") format("woff2");font-weight:700;font-display:swap}
+:root{
+  --page:#fff9f5;--card:#fff;--soft:#f6e7e2;--soft-2:#f0c7bd;--brand:#6f2638;--brand-strong:#3d1220;
+  --accent:#d9a7a0;--ink:#191416;--muted:#756a6e;--border:#e8deda;--success:#3f6f52;--warning:#9b671e;--danger:#9d2c3d;
+  --shadow-card:0 12px 32px -8px rgba(61,26,36,.12);--shadow-float:0 16px 48px -10px rgba(26,18,20,.16);
+  --font-body:"DM Sans",Arial,sans-serif;--font-display:"Playfair Display",Georgia,serif;
+  --container:1296px;--radius-sm:12px;--radius:18px;--radius-lg:28px;--pill:999px;
+  --space-1:.5rem;--space-2:1rem;--space-3:1.5rem;--space-4:2rem;--space-5:3rem;--space-6:4.5rem;
+  --ease:cubic-bezier(.22,1,.36,1);--header-h:88px;
+}
